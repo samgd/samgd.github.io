@@ -13,11 +13,8 @@ Example:
   {% include includelines filename='src/HelloWorld.java' start=10 count=5 %}
 
 -->{% endraw %}{% endcomment %}
-
 {% capture filecontent %}
-    {% include {{include.filename}} %}
+{% include {{include.filename}} %}
 {% endcapture %}
-
 {% assign lines = filecontent | newline_to_br | split: '<br />' %}
-
 {% for line in lines offset:{{include.start}} limit:{{include.count}} %}{{ line }}{% endfor %}
