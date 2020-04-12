@@ -1,4 +1,3 @@
-# begin-snippet: snippet
 class Sudoku
 
   def initialize(string)
@@ -46,4 +45,3 @@ class Sudoku
     algorithm.solve(self)
   end
 end
-# end-snippet
