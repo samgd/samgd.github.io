@@ -1,4 +1,7 @@
 {% comment %}{% raw %}<!--
+
+https://hblok.net/blog/posts/2016/10/23/jekyll-include-partial-snippets-of-code/
+
 Includes a method snippet from an include file of C / Java type language.
 
 Usage:
