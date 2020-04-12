@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Foo
+Website migration in progress.
