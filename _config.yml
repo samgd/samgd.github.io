@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sam Davis"
   avatar           : "profile.png"
-  bio              : "Technical Lead - Machine Learning"
-  location         : "Cambridge"
+  bio              : "Technical Lead - Machine Learning, Myrtle.ai"
+  location         : "Cambridge, UK"
   employer         : "Myrtle.ai"
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "sam@samgd.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
