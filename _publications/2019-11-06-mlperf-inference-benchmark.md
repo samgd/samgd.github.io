@@ -1,7 +1,7 @@
 ---
 title: "MLPerf Inference Benchmark"
 collection: publications
-permalink: /publication/2019-11-06-mlperf-inference-benchmark.md
+permalink: /publication/2019-11-06-mlperf-inference-benchmark
 excerpt: "Machine-learning (ML) hardware and software system demand is
 burgeoning. Driven by ML applications, the number of different ML inference
 systems has exploded. Over 100 organizations are building ML inference chips,
