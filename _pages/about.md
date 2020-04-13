@@ -26,7 +26,7 @@ More broadly I'm interested in utilising machine learning and reinforcement
 learning to solve problems on embedded systems. I am currently increasing my
 knowledge in these areas:
 
-* Deep learning through enrollment in <a href="https://fast.ai">fast.ai</a> and
+* Deep learning through enrolment in <a href="https://fast.ai">fast.ai</a> and
   the University of San Francisco Data Institute's Deep Learning Part I 2020
   online course.
 * Reinforcement learning by studying Sutton and Barto's <a href="http://incompleteideas.net/book/the-book-2nd.html">Reinforcement Learning: An Introduction</a> book and following David Silver's <a href="https://www.youtube.com/watch?v=2pWv7GOvuf0">RL Course</a>.
