@@ -36,7 +36,7 @@ Experience
       including:
         * Intel Spoken Language Technologies Summit (iSLTS) 2019 Keynote (100
           people +)
-        * - Xilinx Developer Forum (XDF) 2019
+        * Xilinx Developer Forum (XDF) 2019
 
 * **Jul 2018 - Jun 2019: Neural Network Engineer, Myrtle.ai**
     * Developed Myrtle.ai's first end-to-end automatic speech recognition
