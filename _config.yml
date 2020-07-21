@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Sam Davis"
   avatar           : "profile.png"
-  bio              : "Technical Lead - Machine Learning, Myrtle.ai"
+  bio              : "Machine Learning + Reinforcement Learning"
   location         : "Cambridge, UK"
-  employer         : "Myrtle.ai"
+  employer         :
   pubmed           :
   googlescholar    :
   email            : "sam@samgd.com"
